@@ -1,0 +1,9 @@
+update.log
+.terraform*
+.terraform
+*.tfvars
+tfplan
+~$cument.docx
+*.mp4
+
+
